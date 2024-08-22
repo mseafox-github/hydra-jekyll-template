@@ -31,29 +31,29 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.9032258"
-     inkscape:cx="171.02542"
+     inkscape:cx="171.28814"
      inkscape:cy="66.20339"
      inkscape:window-width="1512"
-     inkscape:window-height="945"
+     inkscape:window-height="861"
      inkscape:window-x="0"
-     inkscape:window-y="37"
+     inkscape:window-y="38"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg6" />
   <path
      d="M42.493,26.625C23.037,26.625,7.118,42.544,7.118,62s15.919,35.375,35.375,35.375S77.868,81.456,77.868,62 S61.949,26.625,42.493,26.625z M46.03,33.947c12.769,1.592,22.925,11.779,24.514,24.516H46.03V33.947z M14.193,62 c0-14.361,10.858-26.318,24.763-28.053v56.139C25.052,88.316,14.193,76.363,14.193,62z M46.03,90.051V65.537h24.514 C68.955,78.307,58.799,88.462,46.03,90.051z"
      id="path1"
-     style="fill:none" />
+     style="fill:#ffffff" />
   <text
      xml:space="preserve"
      id="text6"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.6667px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;shape-inside:url(#rect6);fill:none"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.6667px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;shape-inside:url(#rect6);fill:#ffffff"
      transform="translate(-9.559322,3.779661)"><tspan
        x="88.271484"
        y="77.163643"
-       id="tspan1">Empath IDA </tspan><tspan
+       id="tspan4">Empath IDA </tspan><tspan
        x="88.271484"
        y="139.68903"
-       id="tspan3"><tspan
+       id="tspan6"><tspan
          dx="0 14.076832"
-         id="tspan2">ID</tspan></tspan></text>
+         id="tspan5">ID</tspan></tspan></text>
 </svg>
