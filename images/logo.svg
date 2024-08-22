@@ -32,9 +32,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.9032258"
      inkscape:cx="171.28814"
-     inkscape:cy="66.20339"
+     inkscape:cy="65.940678"
      inkscape:window-width="1512"
-     inkscape:window-height="861"
+     inkscape:window-height="860"
      inkscape:window-x="0"
      inkscape:window-y="38"
      inkscape:window-maximized="0"
@@ -50,10 +50,5 @@
      transform="translate(-9.559322,3.779661)"><tspan
        x="88.271484"
        y="77.163643"
-       id="tspan4">Empath IDA </tspan><tspan
-       x="88.271484"
-       y="139.68903"
-       id="tspan6"><tspan
-         dx="0 14.076832"
-         id="tspan5">ID</tspan></tspan></text>
+       id="tspan1"> EmpathIDA</tspan></text>
 </svg>
